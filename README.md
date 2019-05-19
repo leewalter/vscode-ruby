@@ -3,6 +3,7 @@
  [![Build Status](https://api.travis-ci.org/rubyide/vscode-ruby.svg?branch=master)](https://travis-ci.org/rubyide/vscode-ruby) [![Build status](https://ci.appveyor.com/api/projects/status/vlgs2y7tsc4xpj4c?svg=true)](https://ci.appveyor.com/project/rebornix/vscode-ruby)
 
 This extension provides Ruby language and debugging support for VS Code.
+Test PR by Walter here !
 
 ## Table of Contents
 
